@@ -6,7 +6,7 @@
     <img src="./linkedin.svg" alt="LinkedIn">
   </a>
   <a href="mailto:cleidson.jardim@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="./email.svg" alt="Email">
   </a>
 </p>
 
