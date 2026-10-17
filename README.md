@@ -69,18 +69,18 @@ graph TD
 Minhas decisões tecnológicas são pautadas na tríade: **Performance, Escalabilidade e TCO (Total Cost of Ownership)**.
 
 ### ☸️ Infraestrutura & Orquestração de Containers
-* ![Kubernetes](/img/k8s.svg) **Kubernetes (K8s) Bare-Metal:** Desenho de clusters K8s altamente disponíveis diretamente no hardware físico (On-Premises). Eliminação de hypervisors para extrair a performance máxima de I/O e CPU necessária para workloads de Big Data.
-* ![Docker](/img/docker.svg) **Containerização:** Padronização de ambientes de execução para garantir que o código funcione de forma idêntica do desenvolvimento à produção.
+* ![Kubernetes](./img/k8s.svg?style=for-the-badge&logo=kubernetes&logoColor=white) **Kubernetes (K8s) Bare-Metal:** Desenho de clusters K8s altamente disponíveis diretamente no hardware físico (On-Premises). Eliminação de hypervisors para extrair a performance máxima de I/O e CPU necessária para workloads de Big Data.
+* ![Docker](./img/docker.svg?style=for-the-badge&logo=docker&logoColor=white) **Containerização:** Padronização de ambientes de execução para garantir que o código funcione de forma idêntica do desenvolvimento à produção.
 
 ### ⚙️ Engenharia & Processamento de Dados
-* ![Apache Spark](/img/spark.svg) **Apache Spark:** Motor de processamento distribuído utilizado para rotinas pesadas de ETL/ELT. Experiência na configuração do Spark rodando nativamente sobre Kubernetes, otimizando alocação de executores e memória.
-* ![Apache Airflow](/img/airflow.svg) **Apache Airflow:** Orquestração centralizada de pipelines de dados. Criação de DAGs complexas, controle de dependências, SLAs e alertas corporativos. Substituição direta do Azure Data Factory.
-* ![Apache NiFi](/img/nifi.svg) **Apache NiFi:** Roteamento dinâmico e ingestão de dados em tempo real. Essencial para desacoplar sistemas de origem e gerenciar backpressure em arquiteturas de alta volumetria.
-* ![Databricks](/img/databricks.svg) / ![Azure](/img/azure.svg) **Legacy Cloud/PaaS:** Profundo conhecimento em Azure Cloud (ADF, Databricks, Synapse) para arquitetar a desconstrução e migração reversa segura (Repatriamento).
+* ![Apache Spark](./img/spark.svg?style=for-the-badge&logo=apachespark&logoColor=white) **Apache Spark:** Motor de processamento distribuído utilizado para rotinas pesadas de ETL/ELT. Experiência na configuração do Spark rodando nativamente sobre Kubernetes, otimizando alocação de executores e memória.
+* ![Apache Airflow](./img/airflow.svg?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) **Apache Airflow:** Orquestração centralizada de pipelines de dados. Criação de DAGs complexas, controle de dependências, SLAs e alertas corporativos. Substituição direta do Azure Data Factory.
+* ![Apache NiFi](./img/nifi.svg?style=for-the-badge&logo=Apache&logoColor=white) **Apache NiFi:** Roteamento dinâmico e ingestão de dados em tempo real. Essencial para desacoplar sistemas de origem e gerenciar backpressure em arquiteturas de alta volumetria.
+* ![Databricks](./img/databricks.svg?style=for-the-badge&logo=databricks&logoColor=white) / ![Azure](./img/azure.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) **Legacy Cloud/PaaS:** Profundo conhecimento em Azure Cloud (ADF, Databricks, Synapse) para arquitetar a desconstrução e migração reversa segura (Repatriamento).
 
 ### 🗄️ Bancos de Dados, Migrações & Modelagem
-* ![PostgreSQL](/img/pgsql.svg) **PostgreSQL:** Escolha primária para consolidação de dados relacionais e Data Warehouses operacionais. Especialista em Tuning avançado de queries, configuração de buffers, replicação lógica/física e otimização de I/O.
-* ![MicrosoftSQLServer](/img/mssql.svg) **SQL Server:** Administração avançada, modelagem e liderança de projetos de descontinuação (migração homogênea e heterogênea) visando economia de licenciamento.
+* ![PostgreSQL](./img/pgsql.svg?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL:** Escolha primária para consolidação de dados relacionais e Data Warehouses operacionais. Especialista em Tuning avançado de queries, configuração de buffers, replicação lógica/física e otimização de I/O.
+* ![MicrosoftSQLServer](./img/mssql.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) **SQL Server:** Administração avançada, modelagem e liderança de projetos de descontinuação (migração homogênea e heterogênea) visando economia de licenciamento.
 * 📐 **Modelagem & Tuning:** Desenho de esquemas (Star/Snowflake), normalização/desnormalização estratégica e troubleshooting de performance em alto volume transacional e analítico.
 
 ---
