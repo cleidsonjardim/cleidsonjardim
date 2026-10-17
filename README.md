@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cleidson-jardim-de-lima-11629782/" target="_blank">
-    <img src="/img/linkedin.svg" alt="LinkedIn">
+    <img src="./img/linkedin.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:cleidson.jardim@outlook.com">
-    <img src="/img/email.svg" alt="Email">
+    <img src="./img/email.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
